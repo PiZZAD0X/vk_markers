@@ -5,7 +5,8 @@ class cfgPatches {
         weapons[] = {};
         requiredVersion = 1.0;
         requiredAddons[] = {"a3_ui_f","CBA_Extended_EventHandlers","CBA_MAIN"};
-        author[] = {"VKing"};
+        author = "VKing";
+        authors[] = {"VKing"};
     };
 };
 #include "CfgMarkers.hpp"
